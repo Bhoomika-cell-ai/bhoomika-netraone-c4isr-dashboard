@@ -1,4 +1,3 @@
-
 # Netra-One C4ISR — Tactical Dashboard + Vehicle Data Pipeline
 
 ## Dashboard (React + Vite + Tailwind)
