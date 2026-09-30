@@ -1,0 +1,7 @@
+@import "tailwindcss";
+body{background:#09090b;color:#e4e4e7;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+@keyframes pulse-dot{50%{opacity:.3}}
+.live-dot{animation:pulse-dot 1.4s infinite}
+@keyframes slide-in{from{opacity:0;transform:translateY(-8px)}to{opacity:1;transform:none}}
+.slide-in{animation:slide-in .3s ease-out}
+::-webkit-scrollbar{width:6px}::-webkit-scrollbar-thumb{background:#3f3f46}
