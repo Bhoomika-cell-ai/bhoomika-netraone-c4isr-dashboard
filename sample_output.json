@@ -1,0 +1,16 @@
+{
+  "total_processed": 150,
+  "quarantined_low_quality": 3,
+  "labeled_counts": {
+    "car": 48,
+    "bike": 2,
+    "truck": 11,
+    "bus": 31
+  },
+  "breakdown": {
+    "corrupt": 0,
+    "blurry": 3,
+    "duplicates": 0,
+    "no_vehicle_detected": 55
+  }
+}
